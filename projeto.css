@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo {
+    background: left;
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    font:
+      bold calc(1em + 2 * (100vw - 120px) / 100) 'Dancing Script',
+      fantasy;
+    color: #ffffff;
+    text-shadow: #000 2px 2px 0.2rem;
+}
+header{
+     background-color: #000000;
+        height: 5rem;
+        width: 100vw;
+}
